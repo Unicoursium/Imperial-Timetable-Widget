@@ -1,0 +1,5 @@
+[66232:67944:0507/100517.907:VERBOSE1:components\viz\service\main\viz_main_impl.cc:85] VizNullHypothesis is disabled (not a warning)
+[64044:20548:0507/100518.069:INFO:third_party\webrtc\system_wrappers\source\cpu_info.cc:56] Available number of cores: 16
+[13888:67336:0507/100518.131:INFO:third_party\webrtc\system_wrappers\source\cpu_info.cc:56] Available number of cores: 16
+[66992:31808:0507/100524.973:INFO:third_party\webrtc\system_wrappers\source\cpu_info.cc:56] Available number of cores: 16
+[69412:45920:0507/100529.428:WARNING:components\prefs\pref_notifier_impl.cc:60] Init observer found at shutdown.
